@@ -69,7 +69,7 @@ strain gauges, hall effect sensors, etc. Correlated with numerical model to ensu
 - Member of [Club/Organization Name]  
 - Volunteer for [Event/Organization Name]  
 {%endcomment%}
----
+
 
 #### References
 Available upon request.
