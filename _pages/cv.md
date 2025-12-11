@@ -14,6 +14,7 @@ permalink: /cv/
 
 #### Objective
 Passionate about protecting the safety of others and developing a wide skill-base. 
+
 ---
 
 #### Education
