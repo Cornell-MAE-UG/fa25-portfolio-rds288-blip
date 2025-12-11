@@ -22,6 +22,6 @@ My Contribution:
 I modeled the windblade in CAD, and performed some of the efficiency calculations on our collected data. 
 
 Figures:
-![Windblade CAD]({{ site.fa25-portfolio-rds288-blip }}/images/WindbladeCAD.png)
-![Efficiency Calculation]({{ site.fa25-portfolio-rds288-blip }}/images/efficiencyCalc.png)
+![Windblade CAD]({{ site./fa25-portfolio-rds288-blip }}/images/WindbladeCAD.png)
+![Efficiency Calculation]({{ site./fa25-portfolio-rds288-blip }}/images/efficiencyCalc.png)
 
