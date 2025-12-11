@@ -2,7 +2,7 @@
 layout: project
 title: Windblade Design
 description: Windblade designed by me and a team of peers. 
-technologies: [SolidWorks, Additive Manufacturing]
+technologies: SolidWorks, Additive Manufacturing
 image: /assets/images/spaceship-design.jpg
 ---
 

@@ -2,7 +2,7 @@
 layout: project
 title: Ethical Reflection
 description: MAE 4300 Ethical Reflection
-technologies: [Ethics]
+technologies: Ethics
 image: /assets/images/radio-machine-cad.jpg
 ---
 
