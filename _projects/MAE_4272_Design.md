@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+title: Windblade Design
+description: Windblade designed by me and a team of peers. 
+technologies: [SolidWorks, Additive Manufacturing]
 image: /assets/images/spaceship-design.jpg
 ---
 

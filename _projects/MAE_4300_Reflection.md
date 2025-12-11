@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+title: Engineers and Society Ethical Reflection
+description: Ethical Reflection
+technologies: [Ethics]
 image: /assets/images/radio-machine-cad.jpg
 ---
 
