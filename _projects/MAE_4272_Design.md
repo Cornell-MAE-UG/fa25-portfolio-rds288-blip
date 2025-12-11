@@ -25,5 +25,3 @@ Figures:
 
 ![Windblade CAD]({{ '/assets/images/WindbladeCAD.png' | relative_url }})
 ![Efficiency Calculation]({{ '/assets/images/efficiencyCalc.png' | relative_url }})
-
-
