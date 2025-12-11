@@ -52,7 +52,7 @@ strain gauges, hall effect sensors, etc. Correlated with numerical model to ensu
 
 #### Work Experience
 - **Anduril Industries, Inc. - Mechanical Engineering Intern**  
-  [May, 2025] - [August, 2025]  
+  May, 2025 - August, 2025  
   - Designed and implemented drone full-vehicle long-life test stand - performed structural analysis on stand, designed and implemented all electrical wiring for sensors, power, etc
   - Performed Ingress Protection, Thermal, and Vibration tests on various products
 
