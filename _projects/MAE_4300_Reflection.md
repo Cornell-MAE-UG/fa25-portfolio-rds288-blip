@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Ethical Reflection
-description: MAE 4300: Engineers and Society Ethical Reflection
+title: Engineers and Society Ethical Reflection
+description: Ethical Reflection
 technologies: [Ethics]
 image: /assets/images/radio-machine-cad.jpg
 ---
