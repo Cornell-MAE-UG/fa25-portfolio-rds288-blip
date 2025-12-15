@@ -6,7 +6,7 @@ description: MAE 4300 Ethical Reflection
 ---
 
 
-### For MAE 4300: Engineers and Society, we were asked to write a reflection on the lessons we learned from the course.
+# For MAE 4300: Engineers and Society, we were asked to write a reflection on the lessons we learned from the course.
 
 &nbsp;&nbsp;&nbsp;&nbsp;As someone who intends to operate as a mechanical engineer in industry, I will be forced to make ethical decisions throughout my career. These decisions will range in scope and impact, from an internal, personal level, to a public level, where lives could be in jeopardy. Throughout this class, we have discussed the range of impact and scope that engineering decisions can have, and how those impacts are often hidden at first glance. Further, to define those impacts requires an in-depth understanding of the cultural implications of engineering, as well as a strong understanding of how the facts of each situation have certain implications, and allow us to make certain assumptions with high certainty. Lastly, to define the causes of those impacts implies a level of investigation and deduction which requires explicit research and understanding of all parties involved. 
 
