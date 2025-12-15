@@ -2,11 +2,8 @@
 layout: project
 title: Ethical Reflection
 description: MAE 4300 Ethical Reflection
-
+image: /assets/images/MCAS.png
 ---
-
-
-# For MAE 4300: Engineers and Society, we were asked to write a reflection on the lessons we learned from the course.
 
 &nbsp;&nbsp;&nbsp;&nbsp;As someone who intends to operate as a mechanical engineer in industry, I will be forced to make ethical decisions throughout my career. These decisions will range in scope and impact, from an internal, personal level, to a public level, where lives could be in jeopardy. Throughout this class, we have discussed the range of impact and scope that engineering decisions can have, and how those impacts are often hidden at first glance. Further, to define those impacts requires an in-depth understanding of the cultural implications of engineering, as well as a strong understanding of how the facts of each situation have certain implications, and allow us to make certain assumptions with high certainty. Lastly, to define the causes of those impacts implies a level of investigation and deduction which requires explicit research and understanding of all parties involved. 
 &nbsp;&nbsp;&nbsp;&nbsp;In the case of the Boeing MCAS system, and the accidents it caused, there were an enormous number of individuals involved who all contributed to the issue. This “collusion” can be attributed to personal interests as well as to somewhat unconscious company interests. These unconscious company interests can stem from culture, environment, reputation, etc, and can cause individuals to make decisions under the influence of extreme external pressure. Pressures such as the need for profit, the need to “rise the ranks” as an individual, and the need to maintain a “good reputation,” can all lead individuals to do things that in the long run end up being counterproductive. For example, there were individuals who noticed that MCAS could lead to catastrophic failures, but to protect themselves and their reputations, profits, etc, they chose to keep it a secret. However, in the end, the tragedies of the crashes ended up causing orders of magnitude more damage to those reputations, profits, etc.
