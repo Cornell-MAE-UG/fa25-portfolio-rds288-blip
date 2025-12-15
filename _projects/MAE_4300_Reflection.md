@@ -2,6 +2,7 @@
 layout: project
 title: Ethical Reflection
 description: MAE 4300 Ethical Reflection
+technologies: Ethics, Reflection
 image: /assets/images/MCAS.png
 ---
 <br>
